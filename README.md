@@ -1,2 +1,2 @@
 # hello-world
-Usual stuff, getting started
+Usual stuff, getting started with the tutorial
